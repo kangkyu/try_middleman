@@ -1,0 +1,5 @@
+<div class="locations">
+  <% data.locations.each do |location| %>
+    <%= partial "location", locals: { location: location } %>
+  <% end %>
+</div>

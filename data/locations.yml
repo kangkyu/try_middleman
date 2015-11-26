@@ -1,0 +1,16 @@
+# locations.yml
+- city: Austin, TX
+  image: "austin.jpg"
+  address:
+    - 701 Brazos St.
+    - 5th Floor
+    - Austin, TX 78701
+
+- city: Boston, MA
+  image: "boston.jpg"
+  address:
+    - 41 Winter St.
+    - 7th Floor
+    - Boston, MA 02108
+
+# ... and so on
